@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929543213773",
+    "firebase_url": "https://to-do-list-ucuncubinyil.firebaseio.com",
+    "project_id": "to-do-list-ucuncubinyil",
+    "storage_bucket": "to-do-list-ucuncubinyil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929543213773:android:8c1f393dbe3db2ed564f84",
+        "android_client_info": {
+          "package_name": "com.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929543213773-03962p86g5dmrqgua87fe4bg28orf7vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXHZm7fl8g-PseMGCuNXuA2obAB65i_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929543213773-03962p86g5dmrqgua87fe4bg28orf7vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
