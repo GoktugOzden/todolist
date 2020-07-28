@@ -5,8 +5,9 @@
 import { AppRegistry, UIManager, Platform } from 'react-native';
 import App from './src/Views/App';
 import { name as appName } from './app.json';
+import DeviceHelper from './src/Helper/DeviceHelper';
 
-if (Platform.OS === 'android') {
+if (DeviceHelper.android) {
     UIManager.setLayoutAnimationEnabledExperimental(true);
 }
 
