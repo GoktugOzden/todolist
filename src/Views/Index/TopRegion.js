@@ -9,7 +9,7 @@ import { indexTopRegionStyle as S } from '../Style';
 class TopRegion extends React.Component {
     componentDidMount = Controller.cDMount;
     componentDidUpdate = Controller.cDUpdate;
-    componentWillMount = Controller.cWUnmount;
+    componentWillUnMount = Controller.cWUnmount;
 
     render() {
         return (

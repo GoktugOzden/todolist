@@ -8,7 +8,7 @@ import DeviceHelper from '../Helper/DeviceHelper';
 
 import SplashController from '../Controllers/SplashController';
 
-import { splashS as S } from './Style';
+import { splashStyle as S } from './Style';
 
 class Splash extends React.Component {
     componentDidMount = SplashController.cDMount;

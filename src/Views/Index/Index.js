@@ -8,6 +8,7 @@ import SplashController from '../../Controllers/SplashController';
 import { indexStyle as S } from '../Style';
 
 import TopRegion from './TopRegion';
+import Notes from './Notes';
 import Splash from '../Splash';
 
 
@@ -27,6 +28,7 @@ class Index extends React.Component {
                     splashStatus === 3 &&
                     <>
                         <TopRegion />
+                        <Notes />
                     </>
 
                 }
