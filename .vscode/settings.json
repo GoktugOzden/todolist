@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "metro.config.js": true,
+    "__tests__": true,
+    ".vscode": true,
+    "android": true,
+    "ios": true,
+    ".buckconfig": true,
+    ".eslintrc.js": true,
+    ".flowconfig": true,
+    ".gitattributes": true,
+    ".gitignore": true,
+    ".prettierrc.js": true,
+    ".watchmanconfig": true,
+    "app.json": true
+  }
+}
